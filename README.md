@@ -3,7 +3,8 @@ source code for the preprint "Uncertainty quantification of an influence network
 
 IkeNet_cleaned.csv contains the preprocessed data
 
-run the main code using the following command
+run the main code using the following command:
+```
 python3 run_EnPGF_IkeNet.py 
-
+```
 an output EnPGF_IkeNet_sender.pkl will be created.
